@@ -1,0 +1,15 @@
+Welcome to the Weather App!
+Enter a location (city, state): London, UK
+
+Weather for London, UK:
+Description: clear sky
+Temperature: 12.85°C
+Feels like: 12.85°C
+-----------------------------------------------------------------------------------------
+Welcome to the Weather App!
+Enter a location (city, state): Tokyo, Japan
+
+Weather for Tokyo, Japan:
+Description: light rain
+Temperature: 18.23°C
+Feels like: 17.38°C
